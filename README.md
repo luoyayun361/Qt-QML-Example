@@ -9,4 +9,4 @@ Qt、QML 示例集合。
 ### 2.
 QML 实现阴影字体效果，可定义阴影颜色及阴影大小等
 
-<img src="https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-shadow-font/show.png" width = 60%/>
+<img src="https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-shadow-font/show.png" width = 40%/>
