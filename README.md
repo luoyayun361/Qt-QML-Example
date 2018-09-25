@@ -10,3 +10,8 @@ Qt、QML 示例集合。
 QML 实现阴影字体效果，可定义阴影颜色及阴影大小等
 
 <img src="https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-shadow-font/show.png" width = 40%/>
+
+### 3.QML-Light-Ani-font
+QML 实现发光呼吸动画字体效果
+
+![效果图](https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-Light-Ani-font/show.gif)
