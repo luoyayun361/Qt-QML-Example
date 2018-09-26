@@ -15,3 +15,7 @@ QML 实现阴影字体效果，可定义阴影颜色及阴影大小等
 QML 实现发光呼吸动画字体效果
 
 ![效果图](https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-Light-Ani-font/show.gif)
+
+### 4.QML-Gradient-font
+QML 实现渐变色字体
+<img src="https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-Gradient-font/show.png" />
