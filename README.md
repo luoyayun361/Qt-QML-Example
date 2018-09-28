@@ -18,4 +18,5 @@ QML 实现发光呼吸动画字体效果
 
 ### 4.QML-Gradient-font
 QML 实现渐变色字体
-<img src="https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-Gradient-font/show.png" />
+
+<img src="https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-Gradient-font/show.png" width = 60%/>
