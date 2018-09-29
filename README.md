@@ -23,6 +23,7 @@ QML 实现渐变色字体
 
 ### 4.QML-Customize-Flipable
 QML实现页面反转封装，翻转过程中修改页面opacity、scale、angle
+
 ![效果图](https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-Customize-Flipable/show.gif)
 
 
