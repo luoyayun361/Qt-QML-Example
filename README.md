@@ -20,3 +20,14 @@ QML 实现发光呼吸动画字体效果
 QML 实现渐变色字体
 
 <img src="https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-Gradient-font/show.png" width = 60%/>
+
+### 4.QML-Customize-Flipable
+QML实现页面反转封装，翻转过程中修改页面opacity、scale、angle
+![效果图](https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-Customize-Flipable/show.gif)
+
+
+
+
+
+以后代码管理会在 github 上进行更新，而技术文档更新是在 CSDN 博客中更新。
+CSDN 博客地址：https://blog.csdn.net/luoyayun361
