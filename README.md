@@ -45,6 +45,12 @@ QML 实现图片酷炫切换效果
 
 ![效果图](https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-PathView-CoverFlow/show.gif)
 
+### 8.QML-StackView-Gradient
+
+QML stackview 实现图片渐隐切换效果
+
+![效果图](https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-StackView-Gradient/show.gif)
+
 
 以后代码管理会在 github 上进行更新，而技术文档更新是在 CSDN 博客中更新。
 CSDN 博客地址：https://blog.csdn.net/luoyayun361
