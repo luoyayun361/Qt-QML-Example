@@ -52,7 +52,9 @@ QML stackview 实现图片渐隐切换效果
 ![效果图](https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-StackView-Gradient/show.gif)
 
 ### 9.QML-Drag
+
 QML实现控件拖拽并停靠在左右两侧
+
 ![效果图](https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-Drag/show.gif)
 
 
