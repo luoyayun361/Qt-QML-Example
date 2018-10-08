@@ -35,9 +35,7 @@ QML实现ListView控件悬浮标题栏
 ### 6.QML-Reflection
 QML实现控件或图片倒影效果
 
-<img src="https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-Reflection/show2.png" width = 60%/>
-
-<img src="https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-Reflection/show1.png" width = 60%/>
+<img src="https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-Reflection/show2.png" width = 40%/>
 
 ### 7.QML-PathView-CoverFlow 
 
