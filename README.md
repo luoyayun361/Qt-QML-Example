@@ -66,6 +66,9 @@ QML实现延时按钮效果
 
 ![效果图](https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-PathView/show.gif)
 
+### 12.QML-SpringAnimation
+
+![效果图](https://github.com/luoyayun361/Qt-QML-Example/blob/master/QML-SpringAnimation/show.gif)
 
 以后代码管理会在 github 上进行更新，而技术文档更新是在 CSDN 博客中更新。
 CSDN 博客地址：https://blog.csdn.net/luoyayun361
